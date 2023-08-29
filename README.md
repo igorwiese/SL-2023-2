@@ -4,10 +4,10 @@ Email: igor@utfpr.edu.br
 
 # Planejamento das aulas: Clique Aqui para ver a agenda
 - Aula 1: [Apresentação da Disciplina](Lecture_01.pdf)   
-- Aula 2: Visão Geral de Software Livre
-- Aula 3: Comunidades de Sofware Livre
-- Aula 4: Licenças de Software Livre
-- Aula 5: Motivação para contribuir e como iniciar sua caminhada
+- Aula 2: [Visão Geral de Software Livre](Lecture_02.pdf) 
+- Aula 3: [Comunidades de Sofware Livre](Lecture_03.pdf) 
+- Aula 4: [Licenças de Software Livre](Lecture_04.pdf) 
+- Aula 5: [Motivação para contribuir e como iniciar sua caminhada](Lecture_05.pdf) 
 
 # Referencia
 O livro principal aqui é:
