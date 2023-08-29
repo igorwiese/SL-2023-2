@@ -3,10 +3,11 @@ Professor: Dr. Igor Wiese
 Email: igor@utfpr.edu.br
 
 # Planejamento das aulas: Clique Aqui para ver a agenda
-- Aula 1:
-- Aula 2:
-- Aula 3:
-- Aula 4: 
+- Aula 1: Apresentação da Disciplina
+- Aula 2: Visão Geral de Software Livre
+- Aula 3: Comunidades de Sofware Livre
+- Aula 4: Licenças de Software Livre
+- Aula 5: Motivação para contribuir e como iniciar sua caminhada
 
 # Referencia
 O livro principal aqui é:
